@@ -4,7 +4,8 @@ import { CardBar } from "../../components"
 
 const Main = () => {
   return (
-    <div className="bg-colors-main w-full  ">
+    <>
+    <div className="bg-colors-main w-full pb-20 ">
         <div  id="SearchBar" className="bg-colors-primary_200 bg-SerachBar-pattern bg-cover p-10 justify-center items-center mx-52
     rounded-lg relative top-[-60px]
     ">
@@ -23,6 +24,12 @@ const Main = () => {
         </div>
         
     </div>
+    <div className="w-full  bg-colors-primary_200 bg-boost-desktop bg-cover text-center py-20 ">
+    <p className="font-Medium font-bold text-3xl text-colors-white  ">Boost your links today</p>
+
+    <button className="bg-colors-primary_100 px-10 py-4 rounded-full font-Medium text-colors-white mt-10">Get Started</button>
+    </div>
+    </>
   )
 }
 

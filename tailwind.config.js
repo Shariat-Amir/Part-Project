@@ -24,7 +24,8 @@ export default {
         natural_300:'hsl(255, 11%, 22%)',
         natural_400:'hsl(260, 8%, 14%)',
         white:'white',
-        main:"rgb(240,241,246)"
+        main:"rgb(240,241,246)",
+       
     },
   },
   fontFamily:{
@@ -33,7 +34,8 @@ export default {
 
   },
   backgroundImage:{
-    'SerachBar-pattern':'url("../../../public/images/bg-shorten-desktop.svg")'
+    'SerachBar-pattern':'url("../../../public/images/bg-shorten-desktop.svg")',
+    'boost-desktop':'url("../../../public/images/bg-boost-desktop.svg")'
   },
 
   plugins: [],
