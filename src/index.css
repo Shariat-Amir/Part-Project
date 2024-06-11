@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+  @font-face {
+    font-family:Poppin_regular ;
+    src: url('../public/fonts/Poppins-Regular.ttf');
+  }
+  @font-face {
+    font-family:Poppin_Medium ;
+    src: url("../public/fonts/Poppins-Medium.ttf");
+    
+  }
+}
