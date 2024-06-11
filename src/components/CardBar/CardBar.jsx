@@ -19,10 +19,10 @@ const cardInformation=[
 
 const CardBar = () => {
   return (
-    <div className="flex flex-col justify-center mt-32 ">
+    <div className="flex flex-col justify-center mt-32 items-center ">
     
-      <div className="bg-colors-primary_100 h-3  w-[800px]  relative top-60  mx-auto "></div>
-    <div className="flex gap-5 justify-center items-center z-10">
+      <div className="bg-colors-primary_100 desktop:h-3  desktop:w-[700px] h-[800px] w-[10px] desktop:relative desktop:top-60 absolute  desktop:mx-auto "></div>
+    <div className="flex  flex-col py-5 desktop:flex-row desktop:gap-5 desktop:justify-center items-center z-10">
      
        <Card className="" icon={cardInformation[0].iconSrc} title={cardInformation[0].title} disc={cardInformation[0].disc}/>
        <Card className="mt-16" icon={cardInformation[1].iconSrc} title={cardInformation[1].title} disc={cardInformation[1].disc}/>

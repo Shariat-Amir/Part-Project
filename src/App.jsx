@@ -14,6 +14,7 @@ function App() {
     <Hero />
     <Main />
     <Footer />
+   
    </main>
   )
 }

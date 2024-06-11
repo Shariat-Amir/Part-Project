@@ -2,8 +2,11 @@
 
 const SearchBar = () => {
   return (
-    <div className="bg-colors-primary_200 bg-SerachBar-pattern bg-cover p-10 justify-center items-center mx-52
-    rounded-lg relative top-[-60px]
+    <div className="bg-colors-primary_200 
+     bg-SerachBar-pattern bg-cover desktop:p-10 
+     desktop:justify-center
+      desktop:items-center desktop:mx-52
+    rounded-lg relative desktop:top-[-60px]  w-[500px]
     ">
 
       <form action="" className="flex items-center justify-center gap-10">

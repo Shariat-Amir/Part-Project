@@ -3,7 +3,7 @@
 const Card = ({icon , title , disc ,className}) => {
   return (
     <div className={`w-[300px] h-[250px] bg-colors-white rounded-lg ${className}`}>
-       <div className="bg-colors-primary_200 w-[65px] h-[65px] rounded-full flex justify-center items-center relative -top-6 left-5">
+       <div className="bg-colors-primary_200 w-[65px] h-[65px] rounded-full flex justify-center items-center relative -top-6 desktop:left-5  left-[120px]">
         <img  className='w-[35px] h-[30px] ' src={icon} alt="" />
        </div>
        <div className="font-Medium px-5">

@@ -1,0 +1,3 @@
+.HeroDesktop{
+    @apply desktop:flex desktop:flex-row-reverse desktop:justify-center desktop:items-center desktop:mt-20 desktop:ml-32 desktop:mb-28
+}
