@@ -39,8 +39,8 @@ export default {
 
   },
   backgroundImage:{
-    'SerachBar-pattern':'url("../../../public/images/bg-shorten-desktop.svg")',
-    'boost-desktop':'url("../../../public/images/bg-boost-desktop.svg")'
+    'SerachBar-pattern':'url("../../../images/bg-shorten-desktop.svg")',
+    'boost-desktop':'url("../../../images/bg-boost-desktop.svg")'
   },
 
   plugins: [],

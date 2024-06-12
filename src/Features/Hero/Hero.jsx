@@ -5,7 +5,7 @@ const Hero = () => {
   return (
     <div className="HeroDesktop  pb-20">
        <div className="  w-full desktop:w-1/2">
-        <img src="../../../public/images/illustration-working.svg" alt="HeroImage" />
+        <img src="../../../images/illustration-working.svg" alt="HeroImage" />
        </div>
        <div className="desktop:w-1/2 w-full text-center">
         <h1 className="font-Medium font-bold text-7xl ">More than just shorter links</h1>

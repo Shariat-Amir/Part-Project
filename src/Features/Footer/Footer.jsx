@@ -9,10 +9,10 @@ const Features=["Link Shortening" , "Branded Links" , "Analytics"]
   return (
     <div className="bg-colors-natural_400  flex flex-col-reverse items-center gap-10 desktop:flex-row-reverse desktop:justify-between desktop:items-start desktop:p-10">
       <div className="flex h-32 p-2 gap-2 ">
-        <img className="w-5 h-5" src="../../../public/images/icon-instagram.svg" alt="" />
-        <img className="w-5 h-5" src="../../../public/images/icon-pinterest.svg" alt="" />
-        <img className="w-5 h-5" src="../../../public/images/icon-twitter.svg" alt="" />
-        <img className="w-5 h-5" src="../../../public/images/icon-facebook.svg" alt="" />
+        <img className="w-5 h-5" src="../../../images/icon-instagram.svg" alt="" />
+        <img className="w-5 h-5" src="../../../images/icon-pinterest.svg" alt="" />
+        <img className="w-5 h-5" src="../../../images/icon-twitter.svg" alt="" />
+        <img className="w-5 h-5" src="../../../images/icon-facebook.svg" alt="" />
       </div>
         <div className="flex flex-col  w-[200px] items-center ">
           <p className="text-colors-white font-Medium bg">Company</p>

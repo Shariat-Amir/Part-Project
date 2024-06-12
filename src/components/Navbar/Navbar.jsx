@@ -24,7 +24,7 @@ const bar=()=>{
       <div className="flex justify-between mx-28 mt-10">
         
         <div className="flex items-center">
-          <img src="../../../public/images/logo.svg" alt="logo" />
+          <img src="../../../images/logo.svg" alt="logo" />
           <a href="#" className="mx-10 text-colors-natural_100  hover:text-colors-primary_100 transition-all duration-200 font-Regular">Features</a>
           <a href="#" className="mx-10 text-colors-natural_100  hover:text-colors-primary_100 transition-all duration-200 font-Regular">Pricing</a>
           <a href="#" className="mx-10 text-colors-natural_100  hover:text-colors-primary_100 transition-all duration-200 font-Regular">Resources</a>
@@ -39,7 +39,7 @@ const bar=()=>{
     return(
       <div className="w-full  mobile:flex mobile:flex-col mobile:items-center mobile:gap-10  pb-8">
       <div className=" mobile:w-full mobile:flex mobile:justify-between mobile:px-5 mobile:mt-10">
-        <img src="../../../public/images/logo.svg" alt="" />
+        <img src="../../../images/logo.svg" alt="" />
         <FontAwesomeIcon onClick={bar} className="mobile:text-3xl" icon={faBars} />
     </div>
     <div className={`absolute top-28 z-10 mobile:bg-colors-primary_200 mobile:min-w-[250px]  mobile:py-10 mobile:rounded-lg ${menu} mobile:justify-center mobile:items-center

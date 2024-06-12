@@ -1,17 +1,17 @@
 import Card from "../Card/Card"
 const cardInformation=[
     {
-        iconSrc:"../../../public/images/icon-brand-recognition.svg",
+        iconSrc:"../../../images/icon-brand-recognition.svg",
         title:"Brand Recognition",
         disc:"Boost your brand recognition with each click. Generic links don't mean a thing. Branded links help instil confidence in your content."
     },
     {
-        iconSrc:"../../../public/images/icon-detailed-records.svg",
+        iconSrc:"../../../images/icon-detailed-records.svg",
         title:"Detailed Records",
         disc:"Gain insights into who is clicking your links. Knoing when and where people engage with your content helps inform better decisions."
     },
     {
-        iconSrc:"../../../public/images/icon-fully-customizable.svg",
+        iconSrc:"../../../images/icon-fully-customizable.svg",
         title:"Fully Customizable",
         disc:"Improve brand awarness and content discoverability through customizable links, supercharging audience engagement."
     },
