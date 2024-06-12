@@ -12,7 +12,7 @@ This application is designed to convert long URLs into short, manageable URLs.
 - [License](#license)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
-- [Technologies Used](#React,#Vite ,#JavaScript,#CSS , #HTML)
+- [Technologies Used](#React)
 
 ## About
 
