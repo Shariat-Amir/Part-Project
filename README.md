@@ -2,17 +2,6 @@
 
 This application is designed to convert long URLs into short, manageable URLs.
 
-## Table of Contents
-
-- [About](#about)
-- [Getting Started](#getting-started)
-- [Prerequisites](#prerequisites)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
-- [Technologies Used](#React)
 
 ## About
 
@@ -49,31 +38,13 @@ To use the URL shortener:
 
 **Note**: If the responsiveness of the application is not working for you, please refresh your page.
 
-## Contributing
-
-We welcome contributions to improve this project. Please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes and commit them (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Create a new Pull Request.
-
-## License
-
-This project is licensed under the MIT License.
 
 ## Contact
 
 For any questions or inquiries, you can reach out to:
 
 - **Email**: amirsina88@gmail.com
-- **Twitter**: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
 
-## Acknowledgements
-
-- Thanks to the creators of the URL shortening API.
-- Thanks to the developers of the CORS extension.
 
 ## Technologies Used
 
