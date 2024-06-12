@@ -18,7 +18,7 @@ const Features=["Link Shortening" , "Branded Links" , "Analytics"]
           <p className="text-colors-white font-Medium bg">Company</p>
           {
             companies.map((item)=>(
-              <a className="text-colors-natural_100 font-Regular my-1" key={item} href="#">{item}</a>
+              <a className="text-colors-natural_100 font-Regular my-1 hover:text-colors-primary_100 transition-all duration-200" key={item} href="#">{item}</a>
             ))
           }
         </div>
@@ -26,7 +26,7 @@ const Features=["Link Shortening" , "Branded Links" , "Analytics"]
         <p className="text-colors-white font-Medium ">Resources</p>
           {
             Resources.map((item)=>(
-              <a className="text-colors-natural_100 font-Regular my-1" key={item} href="#">{item}</a>
+              <a className="text-colors-natural_100 font-Regular my-1 hover:text-colors-primary_100 transition-all duration-200" key={item} href="#">{item}</a>
             ))
           }
         </div>
@@ -34,7 +34,7 @@ const Features=["Link Shortening" , "Branded Links" , "Analytics"]
         <p className="text-colors-white font-Medium">Features</p>
           {
             Features.map((item)=>(
-              <a className="text-colors-natural_100 font-Regular my-1" key={item} href="#">{item}</a>
+              <a className="text-colors-natural_100 font-Regular my-1 hover:text-colors-primary_100 transition-all duration-200" key={item} href="#">{item}</a>
             ))
           }
         </div>

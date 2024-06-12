@@ -1,4 +1,8 @@
 /** @type {import('tailwindcss').Config} */
+
+import { colord } from 'colord'
+
+const lightPrimary=colord("hsl(180, 66%, 49%)").lighten(0.1).toHex()
 export default {
   content: [
     "./index.html",
@@ -17,6 +21,7 @@ export default {
   colors:{
      colors:{
         primary_100:'hsl(180, 66%, 49%)',
+        "light-primary":lightPrimary,
         primary_200:'hsl(257, 27%, 26%)',
         secondary:'hsl(0, 87%, 67%)',
         natural_100:'hsl(0, 0%, 75%)',

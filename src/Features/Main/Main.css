@@ -1,3 +1,6 @@
 .MainDesktop{
-  @apply flex desktop:p-10 desktop:justify-center desktop:items-center desktop:mx-52 rounded-lg relative top-[-60px]
+  @apply flex   desktop:p-10 desktop:justify-center desktop:items-center desktop:mx-52 rounded-lg relative top-[-100px]
+}
+.border{
+  @apply border-2 border-colors-secondary
 }
