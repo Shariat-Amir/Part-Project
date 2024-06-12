@@ -51,6 +51,7 @@ For any questions or inquiries, you can reach out to:
 The technologies used in this project are:
 
 - React
+- Tailwind
 - Vite
 - HTML
 - CSS
