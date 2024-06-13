@@ -2,6 +2,10 @@
 
 This application is designed to convert long URLs into short, manageable URLs.
 
+Note: Please use Chrome and Firefox for this application. This application is responsive for a minimum width of 375px and up to 1440px.
+
+This application is designed to convert long URLs into short, manageable URLs.
+
 
 ## About
 
